@@ -1,0 +1,24 @@
+
+.container{
+    margin-top: 40px; 
+}
+.name_city{
+    margin-bottom: 20px;
+}
+.appname{
+    font-size: xx-large;
+}
+.searchbar{
+    padding-right: 200px;
+}
+.my-foot{
+    font-size: xx-large;
+    color: black;
+}
+
+@media(max-width:500px)
+{
+    footer .my-foot span{
+        font-size: medium;
+    }
+}
